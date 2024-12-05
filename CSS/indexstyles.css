@@ -92,6 +92,8 @@ span {
     border-left: solid 0.6rem;
     border-bottom: solid 0.6rem;
     border-image: linear-gradient(225deg, transparent 50%, blue) 1;
+    width: 250px;
+    height: 250px;
 }
 
 .cont-inicio, .sobre {

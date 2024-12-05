@@ -83,7 +83,8 @@ span {
 }
 
 .imagem-inicio img, .imgsobre img {
-    width: auto;
+    width: 250px;
+    height: 250px;
 
 }
 
